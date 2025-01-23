@@ -1,0 +1,19 @@
+footer {
+    background-color: #d5c4c4; 
+    color: #4d4d4d; 
+    text-align: left; 
+    padding: 20px 10px;  
+    font-size: 14px; 
+    border-top: 1px solid #ccc; 
+  }
+  
+  footer a {
+    color: #4d4d4d; 
+    text-decoration: none; 
+    font-weight: bold;
+  }
+  
+  footer a:hover {
+    color: #000; 
+  }
+  
